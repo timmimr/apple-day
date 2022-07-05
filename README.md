@@ -1,2 +1,2 @@
-# apple-day-pygame
-game based space invader 
+# apple-day
+game based Space Invader 
